@@ -18,7 +18,7 @@ This project implements a complete authentication system in Unity using AWS Cogn
 ## Project Structure
 
 ```
-Assets/
+Scripts/
 ├── Bean/
 │   ├── AuthResult.cs
 │   └── UserData.cs
